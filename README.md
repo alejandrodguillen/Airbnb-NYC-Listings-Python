@@ -7,7 +7,7 @@ Identify the general landscape of the business in the NYC area.
 Identify trends and patterns that might lead to useful and important insights.
 Proving the formulated hypotheses to be true: if the availability of listings is lower, then the prices for listings are higher.
 # Data and Visual Presentation
-A relational database made up of 15 tables contatining data on film rentals, customers, actors, payments and more. Descriptions and Entity Relationship Diagram can be found in the Rockbuster Data Dictionary. Visual Presentation for this project can be found on [Tableau Public](https://public.tableau.com/app/profile/alejandro.guillen1040/viz/RockbusterStealthPresentation_16863031272530/Story1).
+A relational database made up of 15 tables contatining data on film rentals, customers, actors, payments and more. Descriptions and Entity Relationship Diagram can be found in the Rockbuster Data Dictionary. Visual Presentation for this project can be found on [Tableau Public]([https://public.tableau.com/app/profile/alejandro.guillen1040/viz/FinalPresentationAirbnb1/Story1#1]).
 # Tools
 Language: Python
 Libraries: pandas, numpy, seaborn, os, matplotlib, matplotlib.plyplot, sklearn, train_test_split, LinearRegression, mean_squared_error, r2_score, pylab, Kmeans, statsmodels.api, warnings.
